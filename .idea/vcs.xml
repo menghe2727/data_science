@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/100-pandas-puzzles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stat453-deep-learning-ss21" vcs="Git" />
   </component>
 </project>
